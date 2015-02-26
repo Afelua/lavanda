@@ -28,6 +28,7 @@
 	overflow: hidden;
 	position: relative;
 	width: 100%;
+	height: 220px;
 }
 .owl-carousel .owl-wrapper-outer.autoHeight{
 	-webkit-transition: height 500ms ease-in-out;
@@ -302,4 +303,8 @@
 .owl-item.loading{
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
+}
+
+.sync3 .owl-wrapper-outer{
+	height: 300px;
 }

@@ -255,11 +255,11 @@
 
 	  
 	  sync2.owlCarousel({
-		items : 4,
-		itemsDesktop      : [1199,4],
-		itemsDesktopSmall     : [979,4],
-		itemsTablet       : [768,2],
-		itemsMobile       : [479,2],
+		items : 5,
+		itemsDesktop      : [1199,5],
+		itemsDesktopSmall     : [979,5],
+		itemsTablet       : [768,3],
+		itemsMobile       : [479,3],
 		pagination:false,
 		responsiveRefreshRate : 100,
 		afterInit : function(el){
